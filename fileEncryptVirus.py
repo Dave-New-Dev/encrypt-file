@@ -4,6 +4,7 @@ from cryptography.fernet import Fernet
 if __name__ == '__main__':
 
 	#record the encyrption key to a key file
+	#run only once, then disable it
 	"""key = Fernet.generate_key()
 	fernet = Fernet(key)
 
