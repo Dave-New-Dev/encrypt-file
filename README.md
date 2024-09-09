@@ -2,5 +2,5 @@
 encrypt files "virus"           
 but the developer is a script kiddie who just followed an online tutorial
                          
-ik some of y'all boutta flex on me by forking this, making it an actually functional malware
+(I already know that some of y'all boutta flex on me by forking this)
 
