@@ -1,4 +1,4 @@
-#Encrypt Files "virus" (jk broke it has protection)
+# Encrypt Files "virus" (jk broke it has protection)
 encrypt files "virus"           
 but the developer just followed an online tutorial
                          
